@@ -1,6 +1,6 @@
 # DyadIssues: Bug Reports and Feature Requests for Dyad
 
-Dyad is a stub Github repository for reporting issues on Dyad. 
+DyadIssues is a stub Github repository for reporting issues on Dyad. 
 
 ## When Should This Repository Be Used Instead of support@juliahub.com?
 
