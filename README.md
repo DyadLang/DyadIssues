@@ -1,6 +1,6 @@
-# JuliaSimIssues: Bug Reports and Feature Requests for JuliaSim
+# DyadIssues: Bug Reports and Feature Requests for Dyad
 
-JuliaSimIssues is a stub Github repository for reporting issues on JuliaSim. 
+Dyad is a stub Github repository for reporting issues on Dyad. 
 
 ## When Should This Repository Be Used Instead of support@juliahub.com?
 
